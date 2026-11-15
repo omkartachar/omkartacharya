@@ -58,19 +58,7 @@ An AI-focused project exploring smart digital shopping experiences.
 
 ---
 
-## 📊 GITHUB STATISTICS
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=090909&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&border_color=8B0000" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=090909&title_color=FF3333&text_color=FFFFFF&border_color=8B0000" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=090909&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&border=8B0000" width="70%" />
-
-</div>
-
----
 
 ## 🎯 MY DEVELOPER JOURNEY
 
@@ -87,7 +75,7 @@ An AI-focused project exploring smart digital shopping experiences.
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-FF3333?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://www.linkedin.com/in/omkar-t-achar?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
