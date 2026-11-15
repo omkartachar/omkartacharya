@@ -1,7 +1,7 @@
  
 <div align="center">
 
-# ⚡ OMKKAR T ACHARYA
+# ⚡ OMKAR T ACHARYA
 
 ### `BUILD WEBSITE | TECH ENTHUSIAST | BUILDER`
 
