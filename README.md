@@ -1,68 +1,56 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001A00,50:39FF14,100:003300&height=200&section=header&text=OMKAR%20T%20ACHARYA&fontSize=42&fontColor=39FF14&animation=fadeIn&stroke=39FF14&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,40:4B0082,100:00BFFF&height=220&section=header&text=OMKAR%20T%20ACHARYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20UNIVERSE&descAlignY=60&descSize=18" width="100%"/>
 
-# `> HELLO_WORLD.exe`
+# 🌌 EXPLORE MY DIGITAL UNIVERSE
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=70&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+PROFILE;I+AM+OMKAR+T+ACHARYA;LET'S+BUILD+SOMETHING+COOL!" alt="Retro typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=3000&pause=1000&color=70D8FF&center=true&vCenter=true&width=650&height=60&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+universe;Learning+%7C+Building+%7C+Innovating;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated introduction"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/LEVEL-BEGINNER-00CC66?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/MODE-CODING-39FF14?style=for-the-badge&labelColor=080808"/>
+### 🚀 Beginner Developer | Tech Enthusiast | Future Full Stack Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=70D8FF)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=70D8FF)](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## 🖥️ `01. ABOUT_ME`
+## 🌠 01. ABOUT MY UNIVERSE
 
-```text
-╔══════════════════════════════════════╗
-║           USER INFORMATION           ║
-╠══════════════════════════════════════╣
-║ NAME    : OMKAR T ACHARYA            ║
-║ ROLE    : BEGINNER DEVELOPER         ║
-║ STATUS  : ALWAYS LEARNING            ║
-║ MISSION : BUILD SOMETHING AMAZING    ║
-╚══════════════════════════════════════╝
-```
+Hello! I'm **Omkar T Acharya**.
 
-👋 Hey! Welcome to my GitHub profile.
+Welcome to my little corner of the coding universe! 🌌
 
-I'm Omkar T Acharya, a beginner developer interested in technology, web development and creative ideas.
+I'm a beginner developer passionate about technology, web development and building creative digital experiences.
 
-I enjoy learning new things, experimenting with code and turning ideas into real projects.
+I enjoy exploring new technologies and turning simple ideas into useful applications.
 
 - 💻 Learning web development.
 - 🌐 Exploring modern websites and applications.
 - 🤖 Interested in Artificial Intelligence.
-- 🎨 Enjoy creating attractive user interfaces.
+- 🎨 Love creative UI/UX designs.
 - 🚀 Building real-world projects.
-- 📚 Improving my programming skills every day.
+- 📚 Learning something new every day.
 
-```bash
-$ echo "Never stop learning!"
-Never stop learning!
-```
+> "The universe has no limits, and neither does learning."
 
 ---
 
-## ⚡ `02. MY SKILL INVENTORY`
+## 🪐 02. MY TECHNOLOGY GALAXY
+
+The technologies I'm learning and exploring.
 
 <div align="center">
 
-**[ FRONTEND TECHNOLOGIES ]**
+### 🌐 FRONTEND UNIVERSE
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
 
-**[ BACKEND & DATABASE ]**
+### ⚙️ BACKEND & DATABASE
 
 <img src="https://skillicons.dev/icons?i=nodejs,php,supabase,mysql,postgres&theme=dark"/>
 
-**[ DEVELOPMENT TOOLS ]**
+### 🛠️ DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&theme=dark"/>
 
@@ -70,19 +58,16 @@ Never stop learning!
 
 ---
 
-## 🚀 `03. MY PROJECTS`
+## 🚀 03. MISSIONS & PROJECTS
 
-### 🏏 PROJECT_01 : UNDERCRICKET
+### 🏏 MISSION 01 — UNDERCRICKET
 
-```text
-[ LOADING PROJECT INFORMATION... ]
-PROJECT STATUS : IN DEVELOPMENT
-CATEGORY       : CRICKET MANAGEMENT
-```
+**Cricket Tournament Management Platform**
 
-A cricket tournament management platform designed to make managing cricket competitions easier.
+A web application designed to make cricket tournament management easier and more organized.
 
-**Features:**
+**Main Features:**
+
 - 🏆 Tournament management
 - 👥 Team and player management
 - 🏏 Digital scorecards
@@ -90,85 +75,94 @@ A cricket tournament management platform designed to make managing cricket compe
 - 🥇 Tournament standings
 - 🎖️ Awards and rankings
 
-**Tech Stack:** Next.js · React · TypeScript · Supabase
+**Technology Stack:**
+
+Next.js · React · TypeScript · Supabase
 
 <div align="center">
 
-[![UNDERCRICKET](https://img.shields.io/badge/OPEN_UNDERCRICKET-39FF14?style=for-the-badge&logo=github&logoColor=black)](YOUR_UNDERCRICKET_REPO_URL)
+[![Explore UnderCricket](https://img.shields.io/badge/EXPLORE_UNDERCRICKET-00BFFF?style=for-the-badge&logo=github&logoColor=white)](YOUR_UNDERCRICKET_REPO_URL)
 
 </div>
 
-### 🤖 PROJECT_02 : TRUSTCART AI
+### 🤖 MISSION 02 — TRUSTCART AI
 
-```text
-[ INITIALIZING AI PROJECT... ]
-PROJECT STATUS : IN DEVELOPMENT
-CATEGORY       : AI / E-COMMERCE
-```
+**AI-Powered Shopping Experience**
 
-An AI-focused shopping project exploring smarter and more convenient online shopping experiences.
+A project exploring how Artificial Intelligence can make online shopping smarter and more convenient.
 
 **Project Focus:**
+
 - 🛍️ Shopping experience
 - 🤖 AI-powered features
 - 🔍 Product discovery
-- 🎨 Modern interface
+- 🎨 Modern user interface
+- 💡 Intelligent shopping ideas
 
-**Tech Stack:** Update this section with your actual technologies.
+**Technology Stack:** Add your actual project technologies here.
 
 <div align="center">
 
-[![TRUSTCART](https://img.shields.io/badge/OPEN_TRUSTCART_AI-39FF14?style=for-the-badge&logo=github&logoColor=black)](YOUR_TRUSTCART_REPO_URL)
+[![Explore TrustCart AI](https://img.shields.io/badge/EXPLORE_TRUSTCART_AI-9D7BFF?style=for-the-badge&logo=github&logoColor=white)](YOUR_TRUSTCART_REPO_URL)
 
 </div>
 
 ---
 
-## 📊 `04. GITHUB ANALYTICS`
+## 📡 04. GITHUB SPACE STATION
+
+Explore my coding activity and programming languages.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=080D08&title_color=39FF14&icon_color=39FF14&text_color=D2FFD0" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=70D8FF&icon_color=BA8BFF&text_color=E0E6FF" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=080D08&title_color=39FF14&text_color=D2FFD0" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=70D8FF&text_color=E0E6FF" width="80%"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=080D08&ring=39FF14&fire=00CC66&currStreakLabel=39FF14" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0B1026&ring=70D8FF&fire=BA8BFF&currStreakLabel=70D8FF" width="95%"/>
 
 </div>
 
 ---
 
-## 🎮 `05. MY LEARNING QUEST`
+## 🌍 05. MY LEARNING JOURNEY
 
-```text
-╔════════════════════════════════════╗
-║          MISSION PROGRESS          ║
-╠════════════════════════════════════╣
-║ [✓] START LEARNING PROGRAMMING     ║
-║ [✓] EXPLORE WEB DEVELOPMENT        ║
-║ [✓] CREATE MY FIRST PROJECTS       ║
-║ [ ] MASTER JAVASCRIPT              ║
-║ [ ] EXPLORE ARTIFICIAL INTELLIGENCE║
-║ [ ] BUILD MORE APPLICATIONS        ║
-║ [ ] BECOME A FULL STACK DEVELOPER  ║
-╚════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=15&duration=3000&pause=1000&color=BA8BFF&center=true&vCenter=true&width=600&height=50&lines=MISSION+IN+PROGRESS...;EXPLORING+NEW+TECHNOLOGIES;UNLOCKING+NEW+SKILLS;THE+JOURNEY+CONTINUES!" alt="Learning journey animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=MISSION+ACCEPTED;KEEP+CODING...;NEXT+LEVEL+UNLOCKING..." alt="Mission animation"/>
+| Mission | Status |
+|---|---|
+| Start programming | ✅ Completed |
+| Explore web development | ✅ Completed |
+| Build real projects | 🚀 In progress |
+| Improve JavaScript skills | 🌱 Learning |
+| Explore Artificial Intelligence | 🌱 Learning |
+| Become a Full Stack Developer | 🎯 Goal |
 
 ---
 
-## 🌐 `06. CONNECT_WITH_ME`
+## 🎯 06. MY DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-Let's connect, learn and share ideas!
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_USERNAME)
+### 🌌 DREAM BIG. START SMALL. BUILD GREAT.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](YOUR_LINKEDIN_URL)
+</div>
 
-[![Email](https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+---
+
+## 🌐 07. CONNECT WITH ME
+
+Have an idea, project or something interesting to discuss? Let's connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=70D8FF)](https://github.com/YOUR_USERNAME)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=70D8FF)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=BA8BFF)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -176,12 +170,12 @@ Let's connect, learn and share ideas!
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=60&lines=THANKS+FOR+VISITING!;GAME+NOT+OVER...;KEEP+BUILDING+THE+FUTURE!" alt="Retro goodbye animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3000&pause=1200&color=70D8FF&center=true&vCenter=true&width=600&height=60&lines=THANKS+FOR+VISITING+MY+UNIVERSE!;SEE+YOU+IN+THE+NEXT+MISSION;KEEP+EXPLORING.+KEEP+BUILDING." alt="Animated farewell"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003300,50:39FF14,100:001A00&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B0082,100:090979&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-### `> END_OF_FILE.exe`
+**🌌 MADE WITH ❤️ BY OMKAR T ACHARYA**
 
-**⚡ MADE WITH PASSION BY OMKAR T ACHARYA**
+`END OF TRANSMISSION...`
 
 </div>
