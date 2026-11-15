@@ -3,147 +3,138 @@
 
 # ⚡ OMKAR T ACHARYA
 
-### `BUILD WEBSITE | TECH ENTHUSIAST | BUILDER`
+### 🚀 Beginner Developer | Tech Enthusiast | 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world+%F0%9F%91%BE;Building+Ideas+into+Reality;Full+Stack+Development;Code.+Create.+Innovate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+Love+Building+Websites+%F0%9F%92%BB;Learning+Something+New+Every+Day+%F0%9F%93%9A;Turning+Ideas+Into+Reality+%E2%9A%A1;Let's+Build+Something+Amazing!" alt="Animated typing introduction"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00F7FF,100:7B2CFF&height=160&section=header&text=INNOVATE%20BEYOND&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00F7FF,100:7B2CFF&height=180&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=27&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B2CFF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-## 🧬 ABOUT ME
-
-```yaml
-Name: OMKAR T
-
-Interests:
-  - Web Development
-  - Artificial Intelligence
-  - Creative UI/UX
-  - Database Engineering
-  - Building Real-World Applications
-
-Currently:
-  - Developing UnderCricket
-  - Exploring AI-powered applications
-  - Improving full-stack development skills
-
-Philosophy: "Think. Build. Innovate."
-```
-
-I enjoy transforming ideas into useful digital products. My focus is on building modern applications with thoughtful design, reliable functionality and great user experiences.
-
----
-
-## ⚡ TECH ARSENAL
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,supabase,mysql,postgres" />
-
-### TOOLS & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_My_Profile-000000?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 👨‍💻 ABOUT ME
 
-### 🏏 01 — UNDERCRICKET
+Hi! I'm **Omkar T Acharya**.
 
-**A Modern Cricket Tournament Management Platform**
+Welcome to my GitHub profile! 👋
 
-A platform designed to manage cricket tournaments, teams, players and match statistics.
+I'm a beginner developer who loves learning new technologies and creating websites and applications.
 
-**Key Features**
-- Tournament management
-- Team and player management
-- Digital scorecards
-- Player performance statistics
-- Tournament standings
-- Awards and rankings
+- 🌱 Currently learning web development.
+- 💻 Interested in building websites.
+- 🤖 Exploring Artificial Intelligence.
+- 🎨 Interested in creative designs and animations.
+- 🚀 Working on real-world projects.
+- ⚡ Always ready to learn something new!
 
-**Technology:** Next.js · React · TypeScript · Supabase
-
-[![Explore Project](https://img.shields.io/badge/EXPLORE-UNDERCRICKET-00F7FF?style=for-the-badge&logo=github&logoColor=black)](YOUR_UNDERCRICKET_REPO_URL)
+> "Every expert was once a beginner. Keep learning, keep building!"
 
 ---
 
-### 🤖 02 — TRUSTCART AI
+## 🛠️ MY TECHNOLOGY TOOLBOX
 
-**AI-Powered Shopping Experience**
-
-An AI-focused shopping project exploring smarter product discovery and shopping experiences.
-
-**Project Focus**
-- AI-powered shopping features
-- Modern user interface
-- Product discovery
-- Intelligent shopping experience
-
-**Technology:** Add your actual project technologies here.
-
-[![Explore Project](https://img.shields.io/badge/EXPLORE-TRUSTCART_AI-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](YOUR_TRUSTCART_REPO_URL)
-
----
-
-## 📊 GITHUB STATISTICS
+These are some technologies I'm learning and working with.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D4EDD" />
+### 🌐 Web Development
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=9D4EDD&currStreakLabel=00F7FF" width="90%" />
+### 🗄️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,supabase,mysql,postgres&theme=dark" />
+
+### ⚙️ Tools I Use
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
+## 🚀 MY PROJECTS
+
+Here are some projects I'm building and exploring.
+
+### 🏏 01. UNDERCRICKET
+
+**Cricket Tournament Management Platform**
+
+A web application designed to make cricket tournament management easier.
+
+**Features:**
+- 🏆 Tournament management
+- 👥 Team and player management
+- 🏏 Digital scorecards
+- 📊 Player statistics
+- 🥇 Tournament rankings
+- 🎖️ Player awards
+
+**Built With:** Next.js, React, TypeScript and Supabase.
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black)](YOUR_UNDERCRICKET_REPO_URL)
+
+### 🤖 02. TRUSTCART AI
+
+**AI-Powered Shopping Project**
+
+An innovative project exploring how Artificial Intelligence can improve online shopping.
+
+**Project Features:**
+- 🛍️ Shopping experience
+- 🤖 AI-powered features
+- 🔍 Product discovery
+- 🎨 Modern user interface
+
+**Built With:** Add the technologies you actually use.
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](YOUR_TRUSTCART_REPO_URL)
+
+---
+
+## 📊 MY GITHUB STATS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D4EDD&count_private=true" width="95%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="75%" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=9D4EDD&currStreakLabel=00F7FF" width="95%" />
 
 </div>
 
 ---
 
-## 🎯 CURRENT MISSION
+## 🎯 MY LEARNING JOURNEY
 
-- [x] Build real-world development projects
-- [x] Explore modern web technologies
-- [ ] Expand AI development knowledge
-- [ ] Build more innovative applications
-- [ ] Create a professional developer portfolio
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Learning+%7C+Practicing+%7C+Improving;One+Step+Closer+Every+Day;Dream+Big.+Start+Small.+Build+Great." alt="Learning animation"/>
+
+- [x] Started learning programming.
+- [x] Started building websites.
+- [x] Started exploring GitHub.
+- [ ] Improve my coding skills.
+- [ ] Learn more about AI.
+- [ ] Build more amazing projects.
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 LET'S CONNECT
+
+I'm always happy to connect with other developers, learners and technology enthusiasts!
 
 <div align="center">
 
-Let's connect and share ideas!
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Connect-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -151,12 +142,12 @@ Let's connect and share ideas!
 
 <div align="center">
 
-### `SYSTEM STATUS: BUILDING THE FUTURE`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=THANKS+FOR+VISITING+MY+PROFILE!;KEEP+LEARNING.+KEEP+GROWING.+%E2%9A%A1" alt="Animated goodbye"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F7FF,100:090979&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F7FF,100:090979&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**Thanks for visiting my digital space!**
+### ⚡ LEARN • CREATE • INNOVATE
 
-<sub>Designed with ⚡ by Appushetty</sub>
+**Made with ❤️ by OMKAR T ACHARYA**
 
 </div>
